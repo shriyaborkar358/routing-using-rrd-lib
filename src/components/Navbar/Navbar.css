@@ -1,0 +1,19 @@
+.navbar-container{
+    background-color: rgb(10, 10, 10);
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-heading{
+    font-size: 30px;
+    color: white;
+    font-family:fantasy;
+}
+
+.navbar-path{
+    font-size: 25px;
+    margin: 0 20px;
+    color: white;
+    text-decoration: none;
+}
